@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas! 👋
 
-Desenvolvedor, Analista de Sistemas e Quality Analyst que manja de HTML, CSS, JS, TS e Angular.
+Desenvolvedor de Sistemas e Quality Analyst que manja de HTML, CSS, JS, TS e Angular.
 
 - 💻 Atualmente trabalho na agência Hub Álamo
 - 🚀 Curto tecnologia, inovação e café forte
