@@ -2,7 +2,7 @@
 
 Desenvolvedor de Sistemas e Quality Analyst que manja de HTML, CSS, JS, TS e Angular.
 
-- 💻 Atualmente trabalho na agência Hub Álamo
+- 💻 Atualmente trabalho com aplicações web
 - 🚀 Curto tecnologia, inovação e café forte
 - 📫 Me chama no LinkedIn: [linkedin.com/in/lucasmartins](https://linkedin.com/in/lucasmartins-dev)
 
