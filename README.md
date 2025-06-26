@@ -11,8 +11,7 @@ Atualmente, desenvolvo aplicações modernas, focadas em performance, usabilidad
 - Desenvolvimento de aplicações web utilizando **Angular** e tecnologias front-end modernas
 - Garantia da qualidade de software, com foco em **testes funcionais e exploratórios**
 - Prática constante com **versionamento de código** e **colaboração em equipe com Git**
-- Participação em projetos acadêmicos, pessoais e profissionais com foco em aprendizado contínuo
-
+- Participação em projetos acadêmicos, pessoais e profissionais com foco em otimização e entrega de resultados eficazes
 ---
 
 ## 🛠️ Tecnologias que domino e utilizo com frequência
