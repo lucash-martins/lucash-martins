@@ -46,4 +46,3 @@ Caso queira trocar experiências, conversar sobre tecnologia ou simplesmente con
 ---
 
 > _“A excelência em tecnologia está na combinação entre domínio técnico e clareza na construção.”_  
-> — Este repositório representa um pouco da minha trajetória nessa busca.
